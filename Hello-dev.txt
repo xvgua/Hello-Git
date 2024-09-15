@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a change made in the dev branch.
+=======
+This is a change made in the main branch.
+>>>>>>> main
